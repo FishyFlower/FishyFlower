@@ -10,6 +10,11 @@ I've considered two classic Mac wallpapers as my profile picture: "Golden Poppy"
 
 Fish won. Actually, I really love fishes (in aquarium!) and I wanted to name this account FishMan, but this was already taken. That would be also a nice reference to a well-known person in this communiuty :)
 
+<span>
+  <img src="/images/clown-fish.jpg" width="250" height="350" />
+  <img src="/images/Golden Poppy.jpg" width="467" height="350" />
+</span>
+
 ## What I will do? 
 
 I don't have any extensive nor concrete plans, but here are some 'areas of interest':
